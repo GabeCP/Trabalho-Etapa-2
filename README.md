@@ -1,6 +1,3 @@
-# Trabalho-Etapa-2
-Trabalho Programação CMA02
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
